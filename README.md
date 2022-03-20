@@ -2,7 +2,7 @@
 
 Welcome to the STOIC Community!
 
-- [Product Documentation](../../discussions/categories/documentation)
+- [Documentation](../../discussions/categories/documentation)
 - [Illustrations](images/illustrations/)
 - [Screenshots](images/screenshots/)
 
