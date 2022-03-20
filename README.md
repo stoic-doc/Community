@@ -1,3 +1,3 @@
-# Questions & Answers
+# STOIC Community Portal
 
-This workbook captures all [Questions & Answers](https://github.com/stoic-doc/Answers.stoic/discussions) about the STOIC product.
+Welcome to the STOIC Community Portal!
