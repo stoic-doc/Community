@@ -10,8 +10,6 @@ To get an invitation to the Beta, please email your GitHub account name and Link
 
 ⚠️ This community portal is currently under development.
 
-<div align="center">
-  <img src="https://stoic-doc.github.io/Community/images/illustrations/Teaching.png" width="600" style="margin: -200px;"></img>
-</div>
+<img src="https://stoic-doc.github.io/Community/images/illustrations/Teaching.png" width="400"></img>
 
 Copyright © Sutoiku, Inc. All rights reserved.
