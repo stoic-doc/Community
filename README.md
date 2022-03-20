@@ -2,4 +2,4 @@
 
 Welcome to the STOIC Community!
 
-- [Product Documentation](discussions/categories/documentation)
+- [Product Documentation](../discussions/categories/documentation)
