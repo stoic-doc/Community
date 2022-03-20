@@ -2,7 +2,7 @@
 
 Welcome to the STOIC Community!
 
-- [Documentation](../../discussions/categories/documentation)
+- [Documentation](https://github.com/stoic-doc/Community/discussions/categories/documentation)
 - [Illustrations](images/illustrations/)
 - [Screenshots](images/screenshots/)
 
