@@ -1,3 +1,3 @@
-# STOIC Community Portal
+# STOIC Community
 
-Welcome to the STOIC Community Portal!
+Welcome to the STOIC Community!
