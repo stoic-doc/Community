@@ -1,3 +1,3 @@
 # Presentations
 
-Copyright © Sutoiku, Inc. All rights reserved.
+© Sutoiku, Inc. All rights reserved.
