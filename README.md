@@ -8,4 +8,4 @@ To get an invitation to the Beta, please email your GitHub account name and Link
 
 <img src="https://stoic-doc.github.io/Community/images/illustrations/Teaching%20Cropped.png"></img>
 
-Copyright © Sutoiku, Inc. All rights reserved.
+© Sutoiku, Inc. All rights reserved.
