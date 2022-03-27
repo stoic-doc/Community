@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#9ECAE9;stroke:#80A1C4;stroke-miterlimit:10;}
+	.st3{fill:#4E79A8;}
+</style>
+<g class="st0">
+	<rect class="st1" width="50" height="50"/>
+</g>
+<polygon class="st2" points="5.9,25 14.2,14.2 25,10.6 32.2,18.1 44,25 41.2,41.2 25,43 19.6,30.4 "/>
+<line class="st2" x1="25" y1="10.6" x2="25" y2="43"/>
+<line class="st2" x1="5.9" y1="25" x2="44" y2="25"/>
+<line class="st2" x1="14.2" y1="14.2" x2="41.2" y2="41.2"/>
+<line class="st2" x1="19.6" y1="30.4" x2="32.2" y2="18.1"/>
+<path class="st2" d="M43.4,14.2"/>
+<g>
+	<circle class="st3" cx="5.9" cy="25" r="2.2"/>
+</g>
+<g>
+	<circle class="st3" cx="44" cy="25" r="2.2"/>
+</g>
+<g>
+	<circle class="st3" cx="25" cy="10.6" r="2.2"/>
+</g>
+<g>
+	<circle class="st3" cx="25" cy="43" r="2.2"/>
+</g>
+<g>
+	<circle class="st3" cx="19.6" cy="30.4" r="2.2"/>
+</g>
+<g>
+	<circle class="st3" cx="41.2" cy="41.2" r="2.2"/>
+</g>
+<g>
+	<circle class="st3" cx="32.2" cy="17.8" r="2.2"/>
+</g>
+<g>
+	<circle class="st3" cx="14.2" cy="14.2" r="2.2"/>
+</g>
+</svg>
