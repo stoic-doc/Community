@@ -4,8 +4,6 @@ Welcome to the STOIC Community! Please check our [Presentation](https://stoic-do
 
 To get an invitation to the [Beta](https://github.com/stoic-doc/Community/discussions/353), please email your GitHub account name and LinkedIn profile to [beta@stoic.com](mailto:beta@stoic.com).
 
-⚠️ This community portal is currently under development.
-
 <img src="https://stoic-doc.github.io/Community/images/illustrations/Teaching%20Cropped.png"></img>
 
 © Sutoiku, Inc. All rights reserved.
